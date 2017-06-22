@@ -1,4 +1,5 @@
 ---
+tab:none
 title: Bienvenida
 layout: page
 ---
