@@ -1,6 +1,7 @@
-author:
-  name: Pablo Rodríguez
-  website: www.pablo-rodriguez.tk
 title: Página personal
 description: En construcción constante (como la vida misma)
+author:
+  name: Pablo Rodríguez
+  website: http://www.pablo-rodriguez.tk
+lang: es
 theme: minima
