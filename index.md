@@ -1,5 +1,5 @@
 ---
-tab:none
+tab: none
 title: Bienvenida
 layout: page
 ---
