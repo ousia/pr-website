@@ -4,9 +4,7 @@ title: Entorno
 permalink: /entorno/
 ---
 
-Me llamo Pablo Rodríguez. Ésta es mi página personal.
-
-Me interesa leer, escribir y los ordenadores.
+Me llamo Pablo Rodríguez. Ésta es mi página personal. Me interesa leer, escribir y que la informática sea útil.
 
 La finalidad de esta página es sencillamente hacer disponble a otras personas recursos que pueden ser útiles.
 
