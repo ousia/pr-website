@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$brand-color: #0000bf;
+$brand-darker-color: #00008c;
+
+.footer-col-wrapper a {
+  color: $brand-darker-color;
+}
+.post-content a {
+  color: $brand-color;
+}
+code {
+  font-size: 100%;
+}
+
+/* .post-content p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+.post-content ul li p + p {
+  margin-bottom: $spacing-unit / 4;
+} */
