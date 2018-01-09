@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
-$brand-color: #0000bf;
-$brand-darker-color: #00008c;
+/* 003c84 */
+$brand-color: #998800;
+$brand-darker-color: #807200;
 
 .footer-col-wrapper a {
   color: $brand-darker-color;
